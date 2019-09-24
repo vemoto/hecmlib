@@ -1,0 +1,3 @@
+[submodule "ecu"]
+	path = ecu
+	url = https://github.com/sabsteef/ecu
